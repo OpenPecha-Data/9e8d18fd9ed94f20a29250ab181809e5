@@ -1,9 +1,10 @@
 id: 9e8d18fd9ed94f20a29250ab181809e5
 initial_creation_type: ocr
 source_metadata:
-  26154b66e0fb44fcb72b30730a40bdc7:
-    base_file: v060.txt
-    image_group_id: I1PD95906
-    title: ''
-    total_pages: 1877
-    volume_number: 61
+  volumes:
+    26154b66e0fb44fcb72b30730a40bdc7:
+      base_file: v060.txt
+      image_group_id: I1PD95906
+      title: ''
+      total_pages: 1877
+      volume_number: 61
